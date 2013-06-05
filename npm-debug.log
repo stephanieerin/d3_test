@@ -1,0 +1,75 @@
+1691 silly gunzTarPerm extractEntry lib/properties/overflowY.js
+1692 silly gunzTarPerm extractEntry lib/properties/webkitFlexItemAlign.js
+1693 silly gunzTarPerm extractEntry lib/properties/overflowX.js
+1694 silly gunzTarPerm extractEntry lib/properties/webkitFlexLinePack.js
+1695 silly gunzTarPerm extractEntry lib/properties/overflow.js
+1696 silly gunzTarPerm extractEntry lib/properties/webkitFlexOrder.js
+1697 silly gunzTarPerm extractEntry lib/properties/outlineWidth.js
+1698 silly gunzTarPerm extractEntry lib/properties/webkitFlexPack.js
+1699 silly gunzTarPerm extractEntry lib/properties/outlineStyle.js
+1700 silly gunzTarPerm extractEntry lib/properties/webkitFlexWrap.js
+1701 silly gunzTarPerm extractEntry lib/properties/outlineOffset.js
+1702 silly gunzTarPerm extractEntry lib/properties/webkitFlowFrom.js
+1703 silly gunzTarPerm extractEntry lib/properties/outlineColor.js
+1704 silly gunzTarPerm extractEntry lib/properties/webkitFlowInto.js
+1705 silly gunzTarPerm extractEntry lib/properties/outline.js
+1706 silly gunzTarPerm extractEntry lib/properties/webkitFontFeatureSettings.js
+1707 silly gunzTarPerm extractEntry lib/properties/orphans.js
+1708 silly gunzTarPerm extractEntry lib/properties/webkitFontKerning.js
+1709 silly gunzTarPerm extractEntry lib/properties/opacity.js
+1710 silly gunzTarPerm extractEntry lib/properties/webkitFontSizeDelta.js
+1711 silly gunzTarPerm extractEntry lib/properties/minWidth.js
+1712 silly gunzTarPerm extractEntry lib/properties/webkitFontSmoothing.js
+1713 silly gunzTarPerm extractEntry lib/properties/minHeight.js
+1714 silly gunzTarPerm extractEntry lib/properties/webkitFontVariantLigatures.js
+1715 silly gunzTarPerm extractEntry lib/properties/maxWidth.js
+1716 silly gunzTarPerm extractEntry lib/properties/webkitHighlight.js
+1717 silly gunzTarPerm extractEntry lib/properties/maxHeight.js
+1718 silly gunzTarPerm extractEntry lib/properties/webkitHyphenateCharacter.js
+1719 silly gunzTarPerm extractEntry lib/properties/mask.js
+1720 silly gunzTarPerm extractEntry lib/properties/webkitHyphenateLimitAfter.js
+1721 verbose read json /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/request/package.json
+1722 silly lockFile 1652b6c3-dules-jsdom-node-modules-request /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/request
+1723 silly lockFile 1652b6c3-dules-jsdom-node-modules-request /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/request
+1724 silly lockFile b72a8f74-r-npm-request-2-21-0-package-tgz /home/user/.npm/request/2.21.0/package.tgz
+1725 silly lockFile b72a8f74-r-npm-request-2-21-0-package-tgz /home/user/.npm/request/2.21.0/package.tgz
+1726 silly gunzTarPerm extractEntry lib/properties/marks.js
+1727 silly gunzTarPerm extractEntry lib/properties/webkitHyphenateLimitBefore.js
+1728 info /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/request unbuild
+1729 verbose read json /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/request/package.json
+1730 silly gunzTarPerm extractEntry lib/properties/markerStart.js
+1731 silly gunzTarPerm extractEntry lib/properties/webkitHyphenateLimitLines.js
+1732 silly gunzTarPerm extractEntry lib/properties/markerOffset.js
+1733 silly gunzTarPerm extractEntry lib/properties/webkitHyphens.js
+1734 verbose about to build /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom
+1735 info /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom unbuild
+1736 verbose from cache /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/package.json
+1737 info preuninstall jsdom@0.2.19
+1738 info uninstall jsdom@0.2.19
+1739 verbose false,/home/user/Desktop/EVEREST/d3_test/node_modules,/home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules unbuild jsdom@0.2.19
+1740 info postuninstall jsdom@0.2.19
+1741 silly gunzTarPerm extractEntry lib/properties/markerMid.js
+1742 silly gunzTarPerm extractEntry lib/properties/webkitLineAlign.js
+1743 silly gunzTarPerm extractEntry lib/properties/markerEnd.js
+1744 silly gunzTarPerm extractEntry lib/properties/webkitLineBoxContain.js
+1745 silly gunzTarPerm extractEntry lib/properties/marker.js
+1746 silly gunzTarPerm extractEntry lib/properties/webkitLineBreak.js
+1747 error Error: ENOENT, lstat '/home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitBoxFlex.js'
+1748 error If you need help, you may report this log at:
+1748 error     <http://github.com/isaacs/npm/issues>
+1748 error or email it to:
+1748 error     <npm-@googlegroups.com>
+1749 error System Linux 3.5.0-17-generic
+1750 error command "node" "/usr/bin/npm" "install" "jquery"
+1751 error cwd /home/user/Desktop/EVEREST/d3_test
+1752 error node -v v0.10.9
+1753 error npm -v 1.2.24
+1754 error path /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitBoxFlex.js
+1755 error fstream_path /home/user/Desktop/EVEREST/d3_test/node_modules/jquery/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitBoxFlex.js
+1756 error fstream_type File
+1757 error fstream_class FileWriter
+1758 error code ENOENT
+1759 error errno 34
+1760 error fstream_stack /usr/share/npm/node_modules/fstream/lib/writer.js:284:26
+1760 error fstream_stack Object.oncomplete (fs.js:107:15)
+1761 verbose exit [ 34, true ]

@@ -1,0 +1,40 @@
+[{
+	"source":"Harry",
+	"target":"Sally",
+	"value":"1.2"
+},
+{
+	"source":"Harry",
+	"target":"Mario",
+	"value":"1.3"
+},
+{
+	"source":"Sarah",
+	"target":"Alice",
+	"value":"0.2"
+},
+{
+	"source":"Eveie",
+	"target":"Alice",
+	"value":"0.5"
+},
+{
+	"source":"Peter",
+	"target":"Alice",
+	"value":"1.6"
+},
+{
+	"source":"Mario",
+	"target":"Alice",
+	"value":"0.4"
+},
+{
+	"source":"James",
+	"target":"Alice",
+	"value":"0.6"
+},
+{
+	"source":"Harry",
+	"target":"Carol",
+	"value:"0.7"
+}]
